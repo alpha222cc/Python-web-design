@@ -37,5 +37,7 @@ Padding
 Images
 Lists
 Basic page styling
-👨‍💻 Author
+
+
+👨‍💻 Author:
 Mr.fidora
